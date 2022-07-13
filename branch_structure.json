@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "Elua",
+    "Valentin",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "Elua": "main",
+    "Valentin": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "Elua",
+    "Valentin",
+    "origin"
+  ]
+}
